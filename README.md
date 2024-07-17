@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **My Graduation Project**
-
-- 🌱 I’m currently learning **.NET**
-
 - 📫 How to reach me **AhmedSamir8456@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18wNd15M3rtYBJK5W4EDnlJuZ_TQ8P79c/view?usp=drive_link](https://drive.google.com/file/d/18wNd15M3rtYBJK5W4EDnlJuZ_TQ8P79c/view?usp=drive_link)
